@@ -20,8 +20,8 @@ This is a Streamlit-based application for correcting spelling mistakes in a give
 ### Setup Instructions
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-repo/text-correction-app.git
-   cd text-correction-app
+   git clone https://github.com/dinushasandamali/Sinhala-Spelling-and-Grammar-Corrector.git
+   cd Spell Corrector
 
 2. Install the required Python dependencies:
    ```bash
@@ -34,5 +34,4 @@ This is a Streamlit-based application for correcting spelling mistakes in a give
 4. Open the displayed URL in your browser
    ```bash
    http://localhost:8501
-
 
