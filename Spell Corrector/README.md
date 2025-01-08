@@ -35,3 +35,7 @@ This is a Streamlit-based application for correcting spelling mistakes in a give
    ```bash
    http://localhost:8501
 
+![image](https://github.com/user-attachments/assets/09d35b85-1081-42ab-a60d-6ae5c2b11556)
+
+
+
